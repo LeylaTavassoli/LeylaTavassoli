@@ -24,8 +24,7 @@ Welcome to my GitHub! I am a Ph.D. candidate in Operations Research at Southern 
 
 ## 💼 Professional Experience
 
-**Operations Research Intern | Amadeus**
-
+**Operations Research Intern | Amadeus** 
 Contributed to an airline scheduling optimization engine by implementing an outer-loop search procedure to explore feasible market-frequency alternatives beyond the host schedule using nonstop market daily limitations. Developed supporting UI and C# engine-side enhancements for the optimization workflow, and investigated manager-reported errors by tracing constraint-related issues through debugging and testing.
 
 **Research Assistant | OREM Department, SMU**
