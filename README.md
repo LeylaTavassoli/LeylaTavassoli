@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Leyla Tavassoli
 
-🎓 Ph.D. Candidate in Operations Research | Optimization | Machine Learning | Data Science
+🚀 Interested in optimization, supply chain analytics, data science, and decision-support applications using real-world data
 
 Welcome to my GitHub! I am a Ph.D. candidate in Operations Research at Southern Methodist University in Dallas, with experience in optimization modeling, mathematical programming, stochastic programming, supply chain analytics, machine learning fundamentals, data mining, and data-driven decision support. My work focuses on developing mathematical and optimization models, designing solution methodologies for large-scale optimization problems using real-world data, and enhancing algorithms to reduce solution runtimes. For stochastic optimization models, I focus on developing high-quality solution approaches for decision-making under uncertainty. My application areas include bioenergy network design, transportation, and reverse product flows.
 
