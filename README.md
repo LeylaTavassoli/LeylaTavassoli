@@ -11,7 +11,6 @@ Welcome to my GitHub! I am a Ph.D. candidate in Operations Research at Southern 
 * Mathematical Optimization
 * Mixed-Integer Linear Programming
 * Stochastic Programming
-* Chance Constraints
 * Benders Decomposition
 * Progressive Hedging
 * Network Flows
@@ -26,17 +25,25 @@ Welcome to my GitHub! I am a Ph.D. candidate in Operations Research at Southern 
 ## 💼 Professional Experience
 
 **Operations Research Intern | Amadeus**
-Improved airline scheduling decisions by refining an optimization algorithm for determining daily market frequencies across origin-destination markets and aircraft groups. Supported deployment readiness through application logging, monitoring, error reporting, and model traceability.
+Contributed to an airline scheduling optimization engine by implementing an outer-loop search procedure to explore feasible market-frequency alternatives beyond the host schedule using nonstop market daily limitations. Developed supporting UI and C# engine-side enhancements for the optimization workflow, and investigated manager-reported errors by tracing constraint-related issues through debugging and testing.
 
 **Research Assistant | OREM Department, SMU**
-Conducting dissertation research on analytical approaches to support sustainability through network design, including bioenergy supply chains and reverse product flows.
+* **Sustainable bioenergy supply chain network design:** Developed deterministic and stochastic mixed-integer optimization models for bioenergy supply chain planning under uncertainty. Solved large-scale instances using Benders decomposition, Progressive Hedging, SAA, and acceleration strategies, and conducted U.S. Midwest case studies using real-world data and ArcGIS Pro.
+
+* **Reverse product flow network design:** Developed a mixed-integer optimization model for e-commerce return networks considering return convenience, assessment rigor, customer behavior, and value recovery. Applied McCormick linearization and validated the model through a case study with real and estimated data.
+
 
 **Teaching Assistant | OREM Department, SMU**
-Led lab sessions in Operations Research, Advanced Operations Research, and Stochastic Modeling, helping students formulate, implement, and interpret optimization models.
+Led lab sessions in Operations Research, Advanced Operations Research, and Stochastic Modeling. Helped students formulate mathematical optimization models, implement, solve them, and interpret the results for decision-making.
+
+
+**Research and Teaching Assistant | The University of Texas at Arlington**
+Processed, classified, and organized criminal justice data for a research project with the COSMOS group in the Industrial Engineering Department. Developed image-processing code to evaluate pipe ovality for a pipeline inspection project in collaboration with the Civil Engineering Department.
+
 
 ---
 
-
+<!--
 ## 📌 Featured Projects
 
 ### Machine Learning Labs
@@ -47,7 +54,7 @@ A collection of machine learning lab reports covering exploratory data analysis,
 🌐 View Reports: [Machine Learning Labs Webpage](https://leylatavassoli.github.io/machine-learning-labs/)
 
 ---
-<!--
+
 ### Donation Prediction Data Mining
 
 A data mining project focused on predicting donation outcomes using data preprocessing, feature engineering, machine learning models, and model evaluation.
