@@ -2,7 +2,14 @@
 
 🚀 Interested in data science, optimization, supply chain analytics, and decision-support applications using real-world data.
 
-I am an Operations Research Ph.D. candidate at Southern Methodist University in Dallas, working at the intersection of data science, optimization, and decision-support modeling. I develop Python-based analytical workflows and mathematical models using real-world and large-scale datasets, with applications in stochastic programming, chance-constrained modeling, supply chain analytics, logistics network design, reverse product flows, visualization, and operational decision support.
+I am a Ph.D. candidate in Operations Research and a graduate research assistant in the Operations Research and Engineering Management (OREM) Department at Southern Methodist University (SMU). My work focuses on data-driven optimization, machine learning foundations, and decision-making under uncertainty, with applications in real-world logistics, supply chain, and operational decision-support problems.
+
+– **Data Science and Machine Learning Foundations:** Combining coursework and project experience in data mining, regression, recommender systems, and model evaluation to analyze real-world datasets and support data-driven decision-making.
+
+– **Optimization and Decision Support:** – Applying and implementing decomposition-based solution methods, including Benders Decomposition and Progressive Hedging, for large-scale mixed-integer and stochastic optimization models with applications in prescriptive analytics and decision-support systems.
+
+– **Mathematical Modeling and Applications:** Developing models for supply chain analytics, logistics optimization, reverse product flows, and risk-aware planning under uncertainty, translating model outputs into actionable managerial insights and operational decision support.
+
 
 ---
 
