@@ -137,7 +137,6 @@ Sharif University of Technology, Iran
 
 ---
 
-## 📫 Connect with Me
 
 ## 📫 Connect with Me
 
