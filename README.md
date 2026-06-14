@@ -48,7 +48,11 @@ I am a Ph.D. candidate in Operations Research and a graduate research assistant 
 ## 💼 Professional Experience
 
 **Operations Research Intern | Amadeus** 
-Contributed to an airline scheduling optimization engine by implementing an outer-loop search procedure to explore feasible market-frequency alternatives beyond the host schedule using nonstop market daily limitations. Developed supporting UI and C# engine-side enhancements for the optimization workflow, and investigated manager-reported errors by tracing constraint-related issues through debugging and testing.
+ - Developed analytical logic for an airline scheduling optimization engine to evaluate feasible market-frequency alternatives beyond the host schedule.
+
+- Implemented C# engine-side enhancements and UI components to give users greater control over optimization runs, including configurable optimality-gap thresholds and iteration limits.
+
+- Investigated manager-reported issues by tracing constraint-related errors, validating optimization outputs, and supporting data-driven scheduling decisions.
 
 **Research Assistant | OREM Department, SMU**
 * **Sustainable bioenergy supply chain network design:** Developed deterministic and stochastic mixed-integer optimization models for bioenergy supply chain planning under uncertainty. Solved large-scale instances using Benders decomposition, Progressive Hedging, SAA, and acceleration strategies, and conducted U.S. Midwest case studies using real-world data and ArcGIS Pro.
