@@ -61,7 +61,9 @@ Led lab sessions in Operations Research, Advanced Operations Research, and Stoch
 
 
 **Research and Teaching Assistant | The University of Texas at Arlington**
-Processed, classified, and organized criminal justice data for a research project with the COSMOS group in the Industrial Engineering Department. Developed image-processing code to evaluate pipe ovality for a pipeline inspection project in collaboration with the Civil Engineering Department.
+◦ Prepared and transformed criminal justice datasets for the COSMOS research group in the Industrial Engineering Department,
+producing structured data outputs for analysis, reporting, and research documentation.
+◦ Built image-processing code for city pipeline inspection projects in the Civil Engineering Department to automate frame-by-frame pipe ovality measurement, improving accuracy and reducing manual screen-based analysis.
 
 
 ---
