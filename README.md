@@ -57,12 +57,12 @@ Contributed to an airline scheduling optimization engine by implementing an oute
 
 
 **Teaching Assistant | OREM Department, SMU**
-Led lab sessions in Operations Research, Advanced Operations Research, and Stochastic Modeling. Helped students formulate mathematical optimization models, implement, solve them, and interpret the results for decision-making.
+- Led lab sessions in Operations Research, Advanced Operations Research, and Stochastic Modeling, helping students formulate, implement, solve, and interpret optimization models.
 
+- Guided Senior Design teams in analyzing project datasets, defining modeling assumptions, translating business problems into mathematical models, and developing optimization-based deliverables.
 
 **Research and Teaching Assistant | The University of Texas at Arlington**
-- Prepared and transformed criminal justice datasets for the COSMOS research group in the Industrial Engineering Department,
-producing structured data outputs for analysis, reporting, and research documentation.
+- Prepared and transformed criminal justice datasets for the COSMOS research group in the Industrial Engineering Department, producing structured data outputs for analysis, reporting, and research documentation.
 
 - Built image-processing code for city pipeline inspection projects in the Civil Engineering Department to automate frame-by-frame pipe ovality measurement, improving accuracy and reducing manual screen-based analysis.
 
