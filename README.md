@@ -4,7 +4,7 @@
 
 I am an Operations Research Ph.D. candidate at Southern Methodist University in Dallas, working at the intersection of data science, optimization, and decision-support modeling. I develop Python-based analytical workflows and mathematical models using real-world and large-scale datasets, with applications in stochastic programming, chance-constrained modeling, supply chain analytics, logistics network design, reverse product flows, visualization, and operational decision support.
 
-
+---
 
 ## 🔍 Research & Technical Interests
 
@@ -81,12 +81,13 @@ A data mining project focused on predicting donation outcomes using data preproc
 
 ## 🛠️ Tools & Technologies
 
-* **Programming:** Python, C#, R, MATLAB, SQL
+* **Programming & Analytics:** Python, SQL, C#, R, MATLAB
+* **Machine Learning & Data Analysis:** pandas, NumPy, Scikit-learn
 * **Optimization Modeling:** AMPL, GAMS
 * **Optimization Solvers:** CPLEX, Gurobi, Xpress
-* **Machine Learning & Data Analysis:** Pandas, NumPy, Scikit-learn, Jupyter Notebook
-* **Visualization & GIS:** ArcGIS Pro, Tableau, Matplotlib
+* **Visualization & GIS:** Tableau, ArcGIS Pro, Matplotlib, GeoPandas
 * **Version Control:** Git, GitHub, Bitbucket
+
 
 ---
 
