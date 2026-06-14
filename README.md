@@ -92,7 +92,7 @@ A data mining project focused on predicting donation outcomes using data preproc
 ## 🛠️ Tools & Technologies
 
 * **Programming & Analytics:** Python, SQL, C#, R, MATLAB
-* **Machine Learning & Data Analysis:** pandas, NumPy, Scikit-learn
+* **Machine Learning & Data Analysis:** pandas, NumPy, Scikit-learn, Seaborn
 * **Optimization Modeling:** AMPL, GAMS
 * **Optimization Solvers:** CPLEX, Gurobi, Xpress
 * **Visualization & GIS:** Tableau, ArcGIS Pro, Matplotlib, GeoPandas
