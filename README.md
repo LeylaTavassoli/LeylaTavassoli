@@ -1,24 +1,40 @@
 # 👋 Hi there, I'm Leyla Tavassoli
 
-🚀 Interested in optimization, supply chain analytics, data science, and decision-support applications using real-world data
+🚀 Interested in data science, optimization, supply chain analytics, and decision-support applications using real-world data.
 
-Welcome to my GitHub! I am a Ph.D. candidate in Operations Research at Southern Methodist University in Dallas, with experience in optimization modeling, mathematical programming, stochastic programming, supply chain analytics, machine learning fundamentals, data mining, and data-driven decision support. My work focuses on developing mathematical and optimization models, designing solution methodologies for large-scale optimization problems using real-world data, and enhancing algorithms to reduce solution runtimes. For stochastic optimization models, I focus on developing high-quality solution approaches for decision-making under uncertainty. My application areas include bioenergy network design, transportation, and reverse product flows.
+I am an Operations Research Ph.D. candidate at Southern Methodist University in Dallas, working at the intersection of data science, optimization, and decision-support modeling. I develop Python-based analytical workflows and mathematical models using real-world and large-scale datasets, with applications in stochastic programming, chance-constrained modeling, supply chain analytics, logistics network design, reverse product flows, visualization, and operational decision support.
 
----
+
 
 ## 🔍 Research & Technical Interests
+
+**Data Science & Analytics**
+
+* Machine Learning Foundations
+* Data Mining
+* Predictive Analytics
+* Data-Driven Decision Support
+* Visualization and Managerial Insights
+
+**Optimization & Algorithms**
 
 * Mathematical Optimization
 * Mixed-Integer Linear Programming
 * Stochastic Programming
+* Chance-Constrained Optimization
 * Benders Decomposition
 * Progressive Hedging
+* Lagrangian Relaxation
 * Network Flows
+
+**Applications**
+
 * Supply Chain Network Design
+* Logistics Network Design
 * Sustainability and Bioenergy Systems
 * Reverse Product Flows
-* Machine Learning and Data Mining
-* Data-Driven Decision Support
+* Risk-Aware Decision-Making Under Uncertainty
+
 
 ---
 
