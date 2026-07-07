@@ -145,4 +145,4 @@ Sharif University of Technology, Iran
 
 ## 📫 Connect with Me
 
-I am open to Data Scientist and Operations Research opportunities at the intersection of optimization, machine learning foundations, analytics, and data-driven decision support.
+I am open to Operations Research and Data Scientist opportunities at the intersection of optimization, machine learning foundations, analytics, and data-driven decision support.
