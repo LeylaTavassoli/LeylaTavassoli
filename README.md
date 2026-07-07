@@ -48,16 +48,16 @@ I am a Ph.D. candidate in Operations Research and a graduate research assistant 
 ## 💼 Professional Experience
 
 **Operations Research Intern | Amadeus** 
- - Developed analytical logic for an airline scheduling optimization engine to evaluate feasible market-frequency alternatives beyond the host schedule.
+- Enhanced airline scheduling optimization performance by developing analytical logic to evaluate feasible market-frequency alternatives beyond the host schedule, producing optimized market-frequency outputs used as warm-start inputs for downstream nonstop and connecting itinerary optimization and reducing solution runtime by 12%
 
-- Implemented C# engine-side enhancements and UI components to give users greater control over optimization runs, including configurable optimality-gap thresholds and iteration limits.
+- Enhanced an airline scheduling optimization platform by implementing C# backend and UI improvements that increased user control over runtime management and solution-quality tradeoffs.
 
-- Investigated manager-reported issues by tracing constraint-related errors, validating optimization outputs, and supporting data-driven scheduling decisions.
+- Strengthened optimization-engine reliability by investigating manager-reported issues through diagnostic runs and execution log analysis, identifying root causes, and resolving engine-side errors to improve confidence in model outputs.
 
 **Research Assistant | OREM Department, SMU**
-* **Sustainable bioenergy supply chain network design:** Developed deterministic and stochastic mixed-integer optimization models for bioenergy supply chain planning under uncertainty. Solved large-scale instances using Benders decomposition, Progressive Hedging, SAA, and acceleration strategies, and conducted U.S. Midwest case studies using real-world data and ArcGIS Pro.
+* **Sustainable bioenergy supply chain network design:** Developed a stochastic programming models for bioenergy supply chain planning under uncertainty, optimizing pricing, facility location, capacity, inventory, and transportation decisions. Applied Benders decomposition, Progressive Hedging, SAA, and acceleration strategies to solve large-scale instances, improving computational performance by approximately 25\% on average while maintaining solution quality. Conducted U.S. Midwest case studies with real-world geospatial data to evaluate model practicality and generate decision-support insights.
 
-* **Reverse product flow network design:** Developed a mixed-integer optimization model for e-commerce return networks considering return convenience, assessment rigor, customer behavior, and value recovery. Applied McCormick linearization and validated the model through a case study with real and estimated data.
+* **Reverse product flow network design:** Developed an optimization-based decision-support framework (MILP) for e-commerce return networks to optimize return convenience, drop-off accessibility, and value recovery in the Dallas–Fort Worth (DFW) metropolitan area while identifying a service policy that reduced customer-inconvenient return assignments by approximately 60% and excess travel distance by approximately 86%.
 
 
 **Teaching Assistant | OREM Department, SMU**
@@ -66,9 +66,9 @@ I am a Ph.D. candidate in Operations Research and a graduate research assistant 
 - Guided Senior Design teams in analyzing project datasets, defining modeling assumptions, translating business problems into mathematical models, and developing optimization-based deliverables.
 
 **Research and Teaching Assistant | The University of Texas at Arlington**
-- Prepared and transformed criminal justice datasets for the COSMOS research group in the Industrial Engineering Department, producing structured data outputs for analysis, reporting, and research documentation.
-
-- Built image-processing code for city pipeline inspection projects in the Civil Engineering Department to automate frame-by-frame pipe ovality measurement, improving accuracy and reducing manual screen-based analysis.
+- Developed model-ready criminal justice datasets from raw police-department data by performing data cleaning, feature engineering, and classification, enabling downstream analysis and team-based research workflows.
+- 
+- Developed an image-processing framework for sewer pipeline ovality inspection to analyze video frames, improving defect detection accuracy and reducing manual investigation workload from hours to minutes.
 
 
 ---
@@ -96,10 +96,11 @@ A data mining project focused on predicting donation outcomes using data preproc
 ## 🛠️ Tools & Technologies
 
 * **Programming & Analytics:** Python, SQL, C#, R, MATLAB
-* **Machine Learning & Data Analysis:** pandas, NumPy, Scikit-learn, Seaborn
+* **Machine Learning & Data Analysis:** pandas, NumPy, Scikit-learn, cikit-image, Seaborn 
 * **Optimization Modeling:** AMPL, GAMS
 * **Optimization Solvers:** CPLEX, Gurobi, Xpress
-* **Visualization & GIS:** Tableau, ArcGIS Pro, Matplotlib, GeoPandas
+* **Cloud & Data Platforms:** Microsoft Azure SQL Database, Amazon S3, Amazon Athena
+* **Visualization & GIS:** ArcGIS Pro, Power BI, Tableau, Matplotlib, GeoPandas
 * **Version Control:** Git, GitHub, Bitbucket
 
 
