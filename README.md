@@ -122,9 +122,9 @@ Sharif University of Technology, Iran
 
 ## 🏆 Awards & Honors
 
-* OREM Department’s Outstanding Graduate Student Award, SMU
-* Dean’s Dissertation Fellowship, Moody School of Graduate & Advanced Studies, SMU
-* Frederick E. Terman Award, Lyle School of Engineering, SMU
+* Operations Research and Engineering Management (OREM) Department’s Outstanding Graduate Student Award, School of Engineering, SMU
+* Dean’s Dissertation Fellowship, School of Graduate & Advanced Studies, SMU
+* Frederick E. Terman Award, School of Engineering, SMU
 * 1st Place, American Airlines Advanced Analytics Hack-a-thon Competition
 * Khotanzad Endowed Student Support Award, OREM Department, SMU
 * Elinor Pape Endowed Scholarship, UTA
