@@ -67,7 +67,7 @@ I am a Ph.D. candidate in Operations Research and a graduate research assistant 
 
 **Research and Teaching Assistant | The University of Texas at Arlington**
 - Developed model-ready criminal justice datasets from raw police-department data by performing data cleaning, feature engineering, and classification, enabling downstream analysis and team-based research workflows.
-- 
+  
 - Developed an image-processing framework for sewer pipeline ovality inspection to analyze video frames, improving defect detection accuracy and reducing manual investigation workload from hours to minutes.
 
 
